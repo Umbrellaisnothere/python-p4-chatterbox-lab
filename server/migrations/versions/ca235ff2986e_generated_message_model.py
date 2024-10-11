@@ -1,8 +1,8 @@
-"""Genereated Message Model
+"""Generated Message Model
 
-Revision ID: 121020c9bc5d
+Revision ID: ca235ff2986e
 Revises: 
-Create Date: 2024-10-11 13:56:52.941882
+Create Date: 2024-10-11 14:18:51.540812
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '121020c9bc5d'
+revision = 'ca235ff2986e'
 down_revision = None
 branch_labels = None
 depends_on = None
